@@ -1,0 +1,8 @@
+Algoritmo em linguagem natural - rotina
+
+1.	Acordo às 5:00
+2.	Tomo banho e me troco
+3.	Durante o banho escovo os dentes
+4.	Tomo café 
+5.	Deixo minha irmã na perua escolar às 6:00
+6.	Às 6:20 meu pai sai de casa comigo e me deixa na escola às 7:20
